@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Student: Bincy Mariyam
 ---
 
