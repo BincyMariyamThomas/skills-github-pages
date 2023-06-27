@@ -1,4 +1,4 @@
 ---
-Student: Bincy Mariyam Thomas
+Github: Introduction to Github Pages
 ---
 
